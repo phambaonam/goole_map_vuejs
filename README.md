@@ -1,6 +1,6 @@
 ## Hướng Dẫn chèn ảnh google map vào trang web bằng vue.js
    
-## Phải có Latitude , Longitude, api_key do google map cung cap.
+## Phải có Latitude , Longitude, api_key do google map cung cấp.
 
 ## module được sử dụng:
 * [express](https://expressjs.com/)
@@ -31,9 +31,9 @@
 </script>
 ```
 
-## Các bước tiên hành:
+## Các bước tiến hành:
 * Lấy key api_key google map [tại đây](https://developers.google.com/maps/documentation/javascript/get-api-key)
-* file app.js
+* Tạo file app.js
 ```javascript
 const express = require('express');
 const app = express();
