@@ -1,0 +1,27 @@
+{
+  "name": "goole_map_vuejs",
+  "version": "1.0.0",
+  "description": "vuejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha -S"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Phambaonam/goole_map_vuejs.git"
+  },
+  "keywords": [
+    "vue",
+    "node"
+  ],
+  "author": "Doremon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Phambaonam/goole_map_vuejs/issues"
+  },
+  "homepage": "https://github.com/Phambaonam/goole_map_vuejs#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "express-vue": "^3.9.11"
+  }
+}
